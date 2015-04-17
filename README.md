@@ -32,4 +32,5 @@ Run the file in your terminal by typing `py meetup.py` and the output is going t
 The number with 99 characters you created is going to be your private key in base 6. Keep that number somewhere safe as it is your private key and in order to spend your money you need that.
 
 
+
 NOTE: Make sure you are not connected to the internet during the whole process.
